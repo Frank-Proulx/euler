@@ -27,4 +27,5 @@ describe('Palindrome', () => {
     testPal.sumPalindromes();
     expect(testPal.sum).toEqual(4164);
   });
+
 });

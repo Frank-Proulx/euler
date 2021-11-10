@@ -36,3 +36,4 @@ Palindrome.prototype.sumPalindromes = function() {
   });
   this.sum = sum;
 };
+
